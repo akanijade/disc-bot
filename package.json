@@ -1,0 +1,17 @@
+{
+	"name": "greeter-bot",
+	"version": "1.0.0",
+	"description": "it's lala time",
+	"main": "bot.js",
+	"author": "akani",
+	"dependencies": {
+		"@discordjs/opus": "^0.3.3",
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"discord.js": "^12.2.0",
+		"ffmpeg": "0.0.4",
+		"ffmpeg-static": "^4.2.7",
+		"opusscript": "0.0.7",
+		"winston": "^3.2.1",
+		"ytdl-core": "^2.1.7"
+	}
+}
