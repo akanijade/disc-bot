@@ -235,4 +235,4 @@ client.on("guildCreate", guild => {
 });
 */
 // Log our bot in using the token from https://discordapp.com/developers/applications/me
-client.login("NzIyNzE2OTc2MTg2OTE2ODg2.XunJWA.AT23PZSl3533xOeghAFudSfmQaY");
+client.login("NzIyNzE2OTc2MTg2OTE2ODg2.XunIog.2UaM3AXquqZPVRksz3nBgIwAxlo");
